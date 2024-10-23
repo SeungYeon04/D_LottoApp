@@ -1,0 +1,22 @@
+# Python 기본 설정
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 환경 관련
+.env
+*.env
+*.venv
+venv/
+ENV/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 가상환경
+newenv/
+venv/
